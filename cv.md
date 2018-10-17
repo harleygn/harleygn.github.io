@@ -55,20 +55,18 @@ September 2018 - Present
 
 As well as acheiving a grade B in each subject, I have also completed an Extended Project Qualification focused on the future of automation and computerisation in creative industries, and how it might impact on their economies and labour markets.
 
-## Skills and interests
+## Extra-curricular
 
-### Interest 1
+### Hackathons
 
-Lorem ipsum doler sit amet
+Participation in hackathons has allowed me to put my skills to the test in a computer science and software context, requiring spontaneous ideas and effective collaboration, upon which my goal-driven attitude thrives. Combining this with my ability to perform under pressure has made me adaptable to any environment.
 
-### Interest 2
+### Duke of Edinburgh
 
-Lorem ipsum doler sit amet
+During the summer of 2015 I hiked 54 KM over three days as a member of a team in the Peak District, utilising teamwork and communication skills. This provided me with a platform from which to apply my talent for planning and problem-solving while fulfilling my love of hiking and the outdoors.
 
-### Interest 3
+### Volunteering
 
-Lorem ipsum doler sit amet
+At a young age, I became involved in Scouting, and it has paved the way for the volunteering that I continue today. As a Scout leader, I am always keen to organise and deliver interesting and educational sessions to the younger people in the community, sharing my experience along the way. My volunteering extends to other charities too. I spent a week last summer working with the local charity Operation Orphan, preparing clothing and donations to be delivered to those in need.
 
-## Volunteering
-
-[harleygn@gmail.com](mailto:harleygn@gmail.com)
+**Contact me:** [harleygn@gmail.com](mailto:harleygn@gmail.com)
