@@ -9,41 +9,51 @@ Page currently under construction
 
 ## Experience
 
-**Company** - *Job role*
+**Rolls-Royce** - *Digital and Technology Solutions Degree Apprentice*
 
 Sep 2018 - Present
 
-- Something I did
-- Another thing I did
-- Even more things I did
+- Rotating through placements within the IT and R2 Data Labs departments
+- Developing experience in roles including Business Analyst, Data Analyst, Software Engineer, Cyber Security Analyst and IT Consultant
+- Integrating into numerous teams and working alongside colleagues from a range of backgrounds
+- Getting involved with projects for many aspects of the company to build a well-rounded understanding of the importance of IT and Data services
+- Applying my on-the-job skills alongside formal university tuition to study towards a bachelors degree in Digital and Technology Solutions
 
-**Company** - *Job role*
+**Colwick Park Lifeguards** - *Lifeguard*
 
-Sep 2018 - Present
+Sep 2016 - Present
 
-- Something I did
-- Another thing I did
-- Even more things I did
+- Responsible for ensuring the safety of lake users at a variety of festivals, open-water sites and pools
+- Providing emergency rescue and first aid through the use of lifesaving equipment and watercraft
+- Monitoring water conditions by taking temperature readings and water samples
+- Working cohesively with new teams and adapting to new challenges as they arise
 
-**Company** - *Job role*
+**Capital One** - *Work Experience*
 
-Sep 2018 - Present
+2017
 
-- Something I did
-- Another thing I did
-- Even more things I did
+- Spent time with a variety of software teams focusing on backend APIs, mobile and web development
+- Delivered an understanding of function and development of the PSD2 API, including a review of the codebase and testing frameworks
+- Took part in processes of the Agile methodology, such as stand-up and refinement meetings
+- Delivered a presentation about a personal project and A-Level coursework to the Director of department and software engineering staff
+- Invited to return for following visits to work with more teams and give follow up presentations
+- Reference available from Stephen Nutbrown, Software Engineer ([Stephen.Nutbrown@capitalone.com](mailto:Stephen.Nutbrown@capitalone.com))
 
 ## Education
 
-**Institution** - *Course*
+**University of Exeter** - *BSc (Hons) Digital and Technology Solutions*
 
-- Bit of info
-- Bit more info
+September 2018 - Present
 
-**Institution** - *Course*
+- Formal university tuition as part of my Degree apprenticeship with Rolls-Royce
 
-- Bit of info
-- Bit more info
+**Chilwell Sixth Form** - *A-levels*
+
+- Computer Science
+- English Literature
+- Psychology
+
+As well as acheiving a grade B in each subject, I have also completed an Extended Project Qualification focused on the future of automation and computerisation in creative industries, and how it might impact on their economies and labour markets.
 
 ## Skills and interests
 
