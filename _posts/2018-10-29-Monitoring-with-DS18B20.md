@@ -6,4 +6,4 @@ Building on the simple data logger described previously, this unit will use a DS
 
 Only a few components are required for the unit, using only a NodeMCU board, 4.7K resistor and the waterproof variant of the DS18B20 digital temperature sensor, all connected using a few jumper cables and mounted on a breadboard. The below diagram gives simple explanation of the connections.
 
-![ nodemcu_ds18b20_bb](/Users/harleygn/Documents/harleygn.github.io/images/nodemcu_ds18b20_bb.png)Before mounting the electronics inside a box, the componetns will be soldered to a sheet of proto-board.
+![](../images/nodemcu_ds18b20_bb.png)Before mounting the electronics inside a box, the componetns will be soldered to a sheet of proto-board.
