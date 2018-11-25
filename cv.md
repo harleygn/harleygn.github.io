@@ -37,7 +37,6 @@ Sep 2016 - Present
 - Took part in processes of the Agile methodology, such as stand-up and refinement meetings
 - Delivered a presentation about a personal project and A-Level coursework to the Director of department and software engineering staff
 - Invited to return for following visits to work with more teams and give follow up presentations
-- Reference available from Stephen Nutbrown, Software Engineer ([Stephen.Nutbrown@capitalone.com](mailto:Stephen.Nutbrown@capitalone.com))
 
 ## Education
 
