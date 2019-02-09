@@ -12,7 +12,7 @@ Firstly, ensure that the device is connected to your PC correctly via USB, and t
 
 If the device is properly connected and powered up, it should appear in the Windows device manager. To check this, open Device Manager by either searching 'Device manager' in the Start menu, or right clicking on the Start menu button and selecting 'Device Manager'. The following window should appear:
 
-![device](/Users/harleygn/Downloads/guide/device.png)
+![device](../images/device.png)
 
 Open the sub-list named 'Ports (COM & LPT)' by clicking on the arrow to the left of it. If the device is connected, it will appear as 'Prolific USB-to-Serial Comm Port', as shown above, although the specified COM number may be different.
 
@@ -26,15 +26,15 @@ Included with this guide is a ZIP file named `PL2303_HXA_Driver_V10518.zip`. Thi
 
 Right click on the device name and select 'Update drivers'. The window below should appear, asking how you would like to find the new drivers. Choose 'Browse my computer for driver software'.
 
-![update](/Users/harleygn/Downloads/guide/update.png)
+![update](../images/update.png)
 
 You will be given the option to browse for driver software on your computer, however this is not necessary as we have already installed the alternative drivers. Instead, choose 'Let me pick from a list of available drivers on my computer'.
 
-![browse](/Users/harleygn/Downloads/guide/browse.png)
+![browse](../images/browse.png)
 
 If the drivers in the previous step have been installed correctly, they will now appear in the list of available drivers.
 
-![choose](/Users/harleygn/Downloads/guide/choose.png)
+![choose](../images/choose.png)
 
 It is likely that you will see multiple drivers available for you to choose from. Select the driver named `Prolific USB-to-Serial Comm Port Version: 3.3.5.122 [7/17/2009]` which we installed in Step 3, and click Next. Windows will configure the device with this driver, and give you a success message.
 
@@ -46,7 +46,7 @@ Go back to Device Manager and find the device again. The yellow triangle should 
 
 Navigate to your desktop Amateur Radio software (e.g. Airlink Express, DigiPan etc.) and find the option to setup your PTT Serial Port. The image below shows this in Airlink Express. When choosing a port, you should now have the option to select the COM port of your USB interface. If you do not know which COM port your USB interface is connected to, go back to the Device Manager. The COM port is written in brackets at the end of the device name, COM3 in this case.
 
-![airlink](/Users/harleygn/Downloads/guide/airlink.png)
+![airlink](../images/airlink.png)
 
 ### Step 7: Test
 
