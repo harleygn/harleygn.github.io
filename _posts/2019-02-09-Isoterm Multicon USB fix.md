@@ -1,7 +1,3 @@
-# Isoterm Multicon USB interface not transmitting or appearing in software
-
-*Written 09/02/2019 by Harley Glover-Newson - [harleygn.net](https://harleygn.net)*
-
 This guide explains how solve the issue of your USB interface not transmitting or appearing as a COM port in desktop software. The root cause of this issue appears to be incompatible drivers, perhaps due to operating system upgrades. Follow the steps below to install and setup alternative drivers.
 
 **Note: This has guide assumes you are running Windows 10 and using an Isoterm Multicon USB interface. While it may work with other versions of Windows and other USB devices, it has not been tested.**
